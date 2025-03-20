@@ -1,0 +1,1 @@
+let totalCost = cart.quantity * cart.price;

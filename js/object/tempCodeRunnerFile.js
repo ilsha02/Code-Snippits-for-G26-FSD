@@ -1,0 +1,1 @@
+cart.discount = "10%";
